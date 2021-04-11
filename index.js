@@ -25,4 +25,6 @@ const herokuSslRedirect = () => {
   return middleware;
 }
 
-module.exports = herokuSslRedirect;
+module.exports = {
+  herokuSslRedirect
+};
