@@ -1,6 +1,6 @@
 {
   "name": "@robinblomberg/heroku-ssl-redirect",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Robin Blomberg",
   "main": "index.js",
   "types": "index.d.ts",
